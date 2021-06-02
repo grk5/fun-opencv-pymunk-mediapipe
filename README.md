@@ -1,2 +1,4 @@
 # fun-opencv-pymunk-mediapipe
-funopencv+pymunk+mediapipe
+opencv+pymunk+mediapipe
+
+fun with opencv pymunk and mediapipe
